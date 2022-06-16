@@ -20,7 +20,7 @@
 mysql  Ver 15.1 Distrib 10.4.20-MariaDB, for Win64 (AMD64)
 
 ### download project direct link
-<a href="https://github.com/jp52846/EmiCalculations-Project/archive/refs/tags/PRE_REL.zip">Download Project</a>
+<a href="https://github.com/jp52846/EMICalculation/archive/refs/tags/PRE_REL.zip">Download Project</a>
 
 <hr>
 <ul>
