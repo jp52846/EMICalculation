@@ -26,13 +26,13 @@ mysql  Ver 15.1 Distrib 10.4.20-MariaDB, for Win64 (AMD64)
 <ul>
     <li>git clone https://github.com/jp52846/EMICalculation.git</li>
     <li>cd EMICalculation</li>
-    <li>cp .env.example <pre>.env</pre></li>
+    <li>cp .env.example <b>.env</pre></b>
     <li>
         create database name in phpmyadmin and import <a href="https://github.com/jp52846/EMICalculation/blob/main/projectsql/emi_db.sql">Database</a> 
         from projectsql folder
     </li>
     <li>open .env and update DB_DATABASE(database name)</li>
-    <li>run: <pre>composer install</pre></li>
-    <li>run: <pre>php artisan key:generate</pre></li>
-    <li>run: <pre>php artisan serve</pre></li>
+    <li>run: <b>composer install</b></li>
+    <li>run: <b>php artisan key:generate</b></li>
+    <li>run: <b>php artisan serve</b></li>
 </ul>
