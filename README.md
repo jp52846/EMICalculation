@@ -25,10 +25,10 @@ mysql  Ver 15.1 Distrib 10.4.20-MariaDB, for Win64 (AMD64)
 <hr>
 <ul>
     <li>git clone https://github.com/jp52846/EMICalculation.git</li>
-    <li>cd EmiCalculations-Project</li>
+    <li>cd EMICalculation</li>
     <li>cp .env.example <pre>.env</pre></li>
     <li>
-        create databse name in phpmyadmin and import <a href="https://github.com/jp52846/EmiCalculations-Project/blob/main/projectsql/emi_db.sql">Database</a> 
+        create database name in phpmyadmin and import <a href="https://github.com/jp52846/EmiCalculations-Project/blob/main/projectsql/emi_db.sql">Database</a> 
         from projectsql folder
     </li>
     <li>open .env and update DB_DATABASE(database name)</li>
