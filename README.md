@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://github.com/jp52846/EMICalculation/blob/main/screenshorts/EmiHistorySearch.png"> </p>
 
 
-### XAMPP server version is required
+### XAMPP server is required
 <h5>mysql --version</h5>
 mysql  Ver 15.1 Distrib 10.4.20-MariaDB, for Win64 (AMD64)
 
