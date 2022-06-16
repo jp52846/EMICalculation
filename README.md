@@ -34,4 +34,5 @@ mysql  Ver 15.1 Distrib 10.4.20-MariaDB, for Win64 (AMD64)
     <li>open .env and update DB_DATABASE(database name)</li>
     <li>run: <pre>composer install</pre></li>
     <li>run: <pre>php artisan key:generate</pre></li>
+    <li>run: php artisan serve</li>
 </ul>
